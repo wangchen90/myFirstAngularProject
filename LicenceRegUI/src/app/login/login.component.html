@@ -1,0 +1,41 @@
+<!-- <div action="#">
+  <h1>{{ headerText }}</h1>
+  <label for="Mobile">User LoginID</label
+  ><input
+    type="text"
+    name="mobile"
+    placeholder="Enter Mobile"
+    [(ngModel)]="formData.Mobile"
+  /><br /><br />
+  <label for="Password">Enter Password</label
+  ><input
+    type="text"
+    placeholder="Enter Password"
+    [(ngModel)]="formData.Password"
+    [ngModelOptions]="{ standalone: true }"
+  /><br /><br />
+  <button (click)="FetchFormData()">Log In</button>
+  <button routerLink="/register">Register</button>
+  </div> -->
+<h1>{{ headerText }}</h1>
+<form class="mt-5 ms-5">
+  <div class="mb-3">
+    <label for="exampleInputEmail1" class="form-label">User LoginID</label>
+    <input
+      type="text"maxlength="10"
+      class="form-control"
+      [(ngModel)]="formData.Mobile"
+      [ngModelOptions]="{ standalone: true }"
+    />
+  </div>
+  <div class="mb-3">
+    <label for="exampleInputPassword1" class="form-label">Password</label>
+    <input
+      type="password"
+      class="form-control"
+      [(ngModel)]="formData.Password"
+      [ngModelOptions]="{ standalone: true }"
+    />
+  </div>
+  <button (click)="LoginUser()"  class="btn btn-primary">Login</button>
+</form>

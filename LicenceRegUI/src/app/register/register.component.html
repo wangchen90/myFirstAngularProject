@@ -1,0 +1,73 @@
+<!-- <form class="form">
+<h1>{{headerText}}</h1>
+    <label for="Name">Name</label><input type="text" placeholder="Enter Name"
+     [(ngModel)]="formData.Name" [ngModelOptions]="{ standalone: true }"><br><br>
+    <label for="Mobile"> Mobile Number</label><input type="text" placeholder="Enter Mobile" 
+    [(ngModel)]="formData.Mobile" [ngModelOptions]="{ standalone: true }"><br><br>
+    <label for="Email"> Email </label><input type="text" placeholder="Enter Email" 
+    [(ngModel)]="formData.Email" [ngModelOptions]="{ standalone: true }"><br><br>
+    <label for="Password"> Password </label><input type="text" placeholder="Enter Password" 
+    [(ngModel)]="formData.Password" [ngModelOptions]="{ standalone: true }"><br><br>
+    <button (click)="fetchFormData()"    >Create </button>
+    <button routerLink="/login" >Login</button>
+    </form> -->
+    <h1>{{headerText}}</h1>
+<form class="mt-3 ms-5">
+  <div class="row mb-3">
+    <label for="Name" class="col-sm-2 col-form-label ms-3">Name</label>
+    <div class="col-sm-4">
+      <input
+        type="Name"
+        class="form-control"
+        id="Name"
+        [(ngModel)]="formData.Name"
+        [ngModelOptions]="{ standalone: true }"
+      />
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="Mobile" class="col-sm-2 col-form-label ms-3"
+      >Phone Number</label
+    >
+    <div class="col-sm-4">
+      <input
+        type="Mobile"maxlength="10"
+        class="form-control"
+        [(ngModel)]="formData.Mobile"
+        [ngModelOptions]="{ standalone: true }"
+      />
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="inputEmail3" class="col-sm-2 col-form-label ms-3">Email</label>
+    <div class="col-sm-4">
+      <input
+        type="email"
+        class="form-control"
+        [(ngModel)]="formData.Email"
+        [ngModelOptions]="{ standalone: true }"
+      />
+    </div>
+  </div>
+  <div class="row mb-3">
+    <label for="inputPassword3" class="col-sm-2 col-form-label ms-3"
+      >Password</label
+    >
+    <div class="col-sm-4">
+      <input
+        type="password"
+        class="form-control"
+        [(ngModel)]="formData.Password"
+        [ngModelOptions]="{ standalone: true }"
+      />
+    </div>
+  </div>
+  <button (click)="fetchFormData()" type="submit" class="btn btn-primary mt-3 ms-3">
+    Sign in
+  </button>
+  <button routerLink="/login" type="submit" class="btn btn-success mt-3 ms-1 d-flex">
+    Log in
+  </button>
+   
+   
+</form>

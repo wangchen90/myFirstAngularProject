@@ -1,0 +1,15 @@
+.toast-error {
+  background-color: red !important;
+  color: white !important;
+}
+
+.toast-success {
+  background-color: green !important;
+  color: white !important;
+}
+.row{
+  display: inline;
+}
+button{
+  padding: 10px 186px 10px 186px;
+}
