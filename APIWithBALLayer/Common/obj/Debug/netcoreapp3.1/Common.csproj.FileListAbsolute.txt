@@ -1,0 +1,20 @@
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.csproj.AssemblyReference.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\Common\obj\Debug\netcoreapp3.1\Common.pdb

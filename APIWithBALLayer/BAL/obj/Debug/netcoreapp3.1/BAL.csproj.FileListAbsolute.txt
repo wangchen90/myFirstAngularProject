@@ -1,0 +1,26 @@
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.pdb
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\BAL.deps.json
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\BAL.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\BAL.pdb
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.AssemblyReference.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfoInputs.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.AssemblyInfo.cs
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CoreCompileInputs.cache
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.csproj.CopyComplete
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.dll
+C:\Users\wangchen.sherpa\Desktop\WebDevelopment\new user registration system\APIWithBALLayer\BAL\obj\Debug\netcoreapp3.1\BAL.pdb

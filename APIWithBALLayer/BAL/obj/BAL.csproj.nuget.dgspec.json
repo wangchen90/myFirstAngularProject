@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\BAL\\BAL.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\BAL\\BAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\BAL\\BAL.csproj",
+        "projectName": "BAL",
+        "projectPath": "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\BAL\\BAL.csproj",
+        "packagesPath": "C:\\Users\\wangchen.sherpa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\BAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangchen.sherpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\Common\\Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\Common\\Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\wangchen.sherpa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wangchen.sherpa\\Desktop\\WebDevelopment\\new user registration system\\APIWithBALLayer\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\wangchen.sherpa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
